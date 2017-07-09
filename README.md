@@ -1,2 +1,2 @@
 # codebook
-for fun
+A small/sample passward book, as a practise of nodejs.
